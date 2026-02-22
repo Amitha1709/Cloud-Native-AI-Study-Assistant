@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+transformers
+torch
+langchain
+langchain-community
+faiss-cpu
+duckduckgo-search
+sentence-transformers
+pypdf
